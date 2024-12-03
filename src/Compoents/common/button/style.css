@@ -1,0 +1,9 @@
+.btn1{
+     padding: 0.7rem 1.5rem;
+     background-color: var(--blue);
+     color: var(--white);
+     border: none;
+     border-radius: 0.5rem;
+     font-size: large;
+     width: fit-content;
+}
