@@ -77,6 +77,11 @@
 }
 @media only screen and (max-width:520px){
      .tasks,.added-tasks{
-          width: 350px;
+          width: 450px;
+     }
+}
+@media only screen and (max-width:431px){
+     .tasks,.added-tasks{
+          width: 360px;
      }
 }
