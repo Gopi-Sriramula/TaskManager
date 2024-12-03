@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TaskManager/static/css/main.91c17945.css",
-    "main.js": "/TaskManager/static/js/main.527cba9a.js",
+    "main.js": "/TaskManager/static/js/main.fa9b0425.js",
     "static/media/material-icons-two-tone.woff": "/TaskManager/static/media/material-icons-two-tone.3baa5b8f3469222b822d.woff",
     "static/media/material-icons-two-tone.woff2": "/TaskManager/static/media/material-icons-two-tone.4ef4218c522f1eb6b5b1.woff2",
     "static/media/material-icons-round.woff": "/TaskManager/static/media/material-icons-round.5d681e2edae8c60630db.woff",
@@ -14,10 +14,10 @@
     "static/media/material-icons.woff2": "/TaskManager/static/media/material-icons.0c35d18bf06992036b69.woff2",
     "index.html": "/TaskManager/index.html",
     "main.91c17945.css.map": "/TaskManager/static/css/main.91c17945.css.map",
-    "main.527cba9a.js.map": "/TaskManager/static/js/main.527cba9a.js.map"
+    "main.fa9b0425.js.map": "/TaskManager/static/js/main.fa9b0425.js.map"
   },
   "entrypoints": [
     "static/css/main.91c17945.css",
-    "static/js/main.527cba9a.js"
+    "static/js/main.fa9b0425.js"
   ]
 }
