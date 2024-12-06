@@ -4,6 +4,7 @@ import Dashboard from "./Pages/dashboard";
 import PendingTasks from "./Pages/PendingTasks";
 import CompleteTasks from "./Pages/completeTasks";
 import { createContext, useState } from "react";
+import OverDue from "./Pages/OverDue";
 export const AppContext = createContext();
 const App = function () {
   const [toggle, setToggle] = useState(false);
@@ -17,6 +18,7 @@ const App = function () {
             <Route path="/" element={<Dashboard />} />
             <Route path="/pending" element={<PendingTasks />} />
             <Route path="/complete" element={<CompleteTasks />} />
+            <Route path="/overdue" element={<OverDue/>} />
           </Routes>
         </HashRouter>
       </AppContext.Provider>
