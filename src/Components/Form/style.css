@@ -1,0 +1,36 @@
+form{
+     display: flex;
+     flex-direction: column;
+     background-color: #ECEDF6;
+     width: 40%;
+     padding: 1.5rem 2.4rem;
+     gap: 1rem;
+     border-radius:0.5rem;
+     margin: 10px;
+     h1{
+          color: var(--grey);
+     }
+     div{
+          display: flex;
+          gap: 0.3rem;
+          flex-direction: column;
+          label{
+               color: #646681;
+          }
+          textarea{
+               font-size: large;
+          }
+          input,select{
+               padding: 0.5rem;
+               font-size: large;
+               color: #646681;
+               border: none;
+          }
+     }
+}
+.btn2{
+     margin: 0;
+     width: fit-content;
+     font-size: 0.9rem;
+     padding: 0.8rem;
+}

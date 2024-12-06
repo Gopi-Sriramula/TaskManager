@@ -1,0 +1,89 @@
+@import 'material-icons/iconfont/material-icons.css';
+.no-tasks{
+     background-color: var(--darkgrey);
+     height: 30vh;
+     width: 90%;
+     margin: auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border-radius: 0.3rem;
+}
+.tasks-container{
+     background-color: var(--darkgrey);
+     height: fit-content;
+     width: 85%;
+     margin: auto;
+     gap: 1rem;
+     justify-content: center;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: flex-start;
+     padding: 1.5rem 1rem;
+     border-radius: 0.3rem;
+}
+.task{
+     background-color: whitesmoke;
+     min-height: 240px;
+     width: 300px;
+     border-radius: 0.4rem;
+     padding: 0.3rem;
+}
+.task-div1{
+     display: flex;
+     justify-content: space-between;
+     padding: 0.3rem;
+     .details-div{
+          display: flex;
+          gap: 0.4rem;
+          align-items: flex-start;
+          input{
+               width: 15px;
+               height: 15px;
+               margin: 0.3rem;
+          }
+          .title-div{
+               h4{
+                    font-size: 18px;
+               }
+               p{
+                    font-size: small;
+               }
+          }
+     }
+     .icons-div{
+          display: flex;
+          gap: 0.7rem;
+          span{
+               background-color: #EEEEEE;
+               font-size: 20px;
+               height: fit-content;
+               width: fit-content;
+               padding: 0.3rem;
+               color: #585858;
+               border-radius: 3px;
+          }
+     }
+}
+.text{
+     padding: 0.5rem 1.2rem;
+     color: #111;
+}
+.btn1{
+     background-color: var(--grey);
+     padding: 1rem;
+     font-weight: 600;
+     border-radius: 1rem;
+     border: none;
+     animation: bottom-top 0.3s ease;
+     color: var(--white);
+}
+@keyframes bottom-top{
+     0%{
+          transform: translateY(100%);
+     }
+     100%{
+          transform: translate(0);
+     }
+     
+}

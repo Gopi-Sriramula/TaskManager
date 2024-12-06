@@ -1,0 +1,25 @@
+.search{
+     color: white;
+     width: 70%;
+     margin: auto;
+     margin-bottom: 2rem;
+     display: flex;
+     align-items: center;
+     padding-left: 1.5rem;
+     border-radius: 3rem;
+     background-color: var(--darkgrey);
+}
+.search-icon{
+     color: var(--grey);
+}
+.input{
+     flex: 1;
+     padding: 0.9rem;
+     font-size: large;
+     border-radius: 3rem;
+     outline: none;
+     padding-left: 1rem;
+     background-color: transparent;
+     border: none;
+     color: var(--grey);
+}

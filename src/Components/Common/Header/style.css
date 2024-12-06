@@ -1,0 +1,26 @@
+.header-container{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: var(--darkgrey);
+     padding: 1.3rem 2.1rem;
+     position: sticky;
+     top: 0;
+     left: 0;
+}
+.header-head{
+     color: var(--blue);
+}
+.header-links{
+     display: flex;
+     gap: 1.3rem;
+}
+.link{
+     text-decoration: none;
+     color: var(--grey);
+     font-weight: 600;
+}
+.link:hover{
+     color: var(--white);
+     transition: all 0.3s;
+}
