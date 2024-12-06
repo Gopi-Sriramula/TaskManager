@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TaskManager/static/css/main.89f63624.css",
-    "main.js": "/TaskManager/static/js/main.bf147124.js",
+    "main.css": "/TaskManager/static/css/main.d0d76120.css",
+    "main.js": "/TaskManager/static/js/main.64641650.js",
     "static/media/material-icons-two-tone.woff": "/TaskManager/static/media/material-icons-two-tone.3baa5b8f3469222b822d.woff",
     "static/media/material-icons-two-tone.woff2": "/TaskManager/static/media/material-icons-two-tone.4ef4218c522f1eb6b5b1.woff2",
     "static/media/material-icons-round.woff": "/TaskManager/static/media/material-icons-round.5d681e2edae8c60630db.woff",
@@ -13,11 +13,11 @@
     "static/media/material-icons-sharp.woff2": "/TaskManager/static/media/material-icons-sharp.219aa9140e099e6c72ed.woff2",
     "static/media/material-icons.woff2": "/TaskManager/static/media/material-icons.0c35d18bf06992036b69.woff2",
     "index.html": "/TaskManager/index.html",
-    "main.89f63624.css.map": "/TaskManager/static/css/main.89f63624.css.map",
-    "main.bf147124.js.map": "/TaskManager/static/js/main.bf147124.js.map"
+    "main.d0d76120.css.map": "/TaskManager/static/css/main.d0d76120.css.map",
+    "main.64641650.js.map": "/TaskManager/static/js/main.64641650.js.map"
   },
   "entrypoints": [
-    "static/css/main.89f63624.css",
-    "static/js/main.bf147124.js"
+    "static/css/main.d0d76120.css",
+    "static/js/main.64641650.js"
   ]
 }
